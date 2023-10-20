@@ -1,0 +1,10 @@
+/* Submit story form */
+
+.story-form button {
+  width: 7rem;
+  margin-left: 65px;
+}
+
+.story-form-container {
+  padding-left: 20px;
+}
